@@ -1,6 +1,6 @@
 # Project Name
 
-A brief description of your project. Explain what it does and why it is useful.
+
 
 
 ### 1. Clone the Repository
@@ -8,7 +8,7 @@ A brief description of your project. Explain what it does and why it is useful.
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/DevOps-Engineering-me/Multi-stage-Docker-Build.git
+git clone https://github.com/yeasin097/DevOpsMid.git
 ```
 
 
