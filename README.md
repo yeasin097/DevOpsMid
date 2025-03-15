@@ -8,7 +8,7 @@
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/yeasin097/DevOpsMid.git
+git clone https://github.com/DevOps-Engineering-me/Multi-stage-Docker-Build.git
 ```
 
 
